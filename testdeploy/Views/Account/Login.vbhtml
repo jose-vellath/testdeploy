@@ -1,6 +1,6 @@
 ﻿@ModelType LoginViewModel
 @Code
-    ViewBag.Title = "JOSE MATHEW"
+    ViewBag.Title = "JOSE MATHEW Vellath"
 End Code
 
 <h2>@ViewBag.Title.</h2>
